@@ -5,7 +5,7 @@
     "exec_interpreter": "node",
     "env": {
       "PREFIX": "your desired prefix here",
-      "TOKEN": "your bot token here",
+      "TOKEN": process.env.BOT_TOKEN, 
       "OWNER": "your user id here",
       "DB_USER": "mongo username",
       "DB_PASS": "mongo password",
