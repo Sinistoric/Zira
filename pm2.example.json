@@ -4,9 +4,9 @@
     "script": "./Cluster.js",
     "exec_interpreter": "node",
     "env": {
-      "PREFIX": "your desired prefix here",
+      "PREFIX": "!",
       "TOKEN": process.env.BOT_TOKEN, 
-      "OWNER": "your user id here",
+      "OWNER": "Sinistoric#9365",
       "DB_USER": "mongo username",
       "DB_PASS": "mongo password",
       "DB_HOST": "mongo host/collection",
